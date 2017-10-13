@@ -1,0 +1,6 @@
+set DOCKER_HOST=
+set DOCKER_MACHINE_NAME=
+set DOCKER_TLS_VERIFY=
+set DOCKER_TOOLBOX_INSTALL_PATH=
+set DOCKER_CERT_PATH=
+mvn install dockerfile:build
